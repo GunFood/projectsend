@@ -8,7 +8,7 @@ Author e-mail: projectsend@aufwaerts.info
 Description: ProjectSend minimal template
 */
 
-global = $dbh;
+global $dbh;
 
 function get_categories() {
 	
